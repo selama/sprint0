@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa0e0ba1-bd20-456d-bcf2-7d4cbdc22f66" name="Default" comment="adding description meta data">
+    <list default="true" id="aa0e0ba1-bd20-456d-bcf2-7d4cbdc22f66" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06825939">
-              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+            <state vertical-scroll-proportion="0.085324235">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -173,7 +173,13 @@
       <option name="project" value="LOCAL" />
       <updated>1451551573266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding charset meta data">
+      <created>1451553138069</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1451553138069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -206,7 +212,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding doc type to the html doc" />
     <MESSAGE value="adding description meta data" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding description meta data" />
+    <MESSAGE value="adding charset meta data" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding charset meta data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -215,8 +222,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06825939">
-          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.085324235">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="73" />
           <folding />
         </state>
       </provider>
